@@ -1,0 +1,28 @@
+👍👌👎
+## General
+- [] **Readability:** The code is easy to read and understand.
+- [] **Consistency:** Coding style and naming conventions are consistent throughout the code.
+- [] **Comments:** Sufficient and meaningful comments are included where necessary.
+- [] **Documentation:** README or inline documentation is complete and up-to-date.
+
+## Functionality
+- [] **Correctness:** The code performs its intended function without errors.
+- [] **Edge Cases:** Edge cases have been considered and handled appropriately.
+
+## Performance
+- [] **Efficiency:** The code is written with efficiency in mind.
+- [] **Resource Management:** Resources (memory, files, etc.) are managed appropriately.
+
+## Best Practices
+- [] **Error Handling:** Errors are handled gracefully, and error messages are informative.
+- [] **Code Duplication:** Code duplication is minimized, and reusable functions are used where appropriate.
+
+## Suggestions for Improvement
+- [] **Potential Bugs:** Any potential bugs or issues are identified.
+- [] **Optimizations:** Suggestions for code optimizations, if applicable.
+
+## Additional Comments
+[Add any additional comments or thoughts you have about the code.]
+
+## Conclusion
+() / 10
